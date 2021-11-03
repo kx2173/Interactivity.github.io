@@ -1,0 +1,15 @@
+---
+title: "About"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+This website is about how cool the internet is.
+
+Here is back to the index page[index](index.html) page
+
+
+
+
